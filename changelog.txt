@@ -1,0 +1,81 @@
+rev102-123?
+Various settlements moved
+Various textures fixed
+Various items retextured
+Range weapons(such as javelins) should not crack anymore.
+Should not allow to participate in team vs team tournaments, if the player can't fill a full team(need to have 5 people in the party)
+Venice and Constantinople should have proper size buildings
+Turcopoles should now properly use range weapons and skirmish.
+Tournament fix - you no longer need to fight your clones. 
+Byzantium castles and villages scene fix. No longer any giant buildings.
+Player able to join the crusader orders if in faction. Note, you will have to give all your property away. Including your fiefs.
+Peace offer missions do not guarantee a casefire anymore. Ai will continue fighting if the odds are in its favor.
+Manors now properly do their weekly jobs (building, tax collecting, ect.)
+Ransom brokers in manors do not walk away anymore.
+Teutonic town scene fix
+
+rev102
+Kuauiks pack! With that all the troops have been reequiped and most of the items have been redone.
+Most of the textures have been changed in the game, with the Kuauiks pack. This includes various building textures, new faces and many more.
+Incresed quest reward for huting down the fugitive.
+AI are more likely to siege castles, then raid villages. Village raiding has been removed from faction goals.
+Rewrote the alarm system for centers. AI should now react faster to threats such as raids or sieges. This will also hopefully improve the performance somewhat.
+New and improved tournament system.
+Manor system reworked. The small manors have been scraped - every manor is now fortified manor. 
+New AI for the manors - NPC manors will erect buildings in manors.
+Reworked the algortihm for the manor salesman.
+Freelancer updated to 1.51.
+Freelancer tweaked for 1257ad troop trees. Now based on your renown you can start as a noble(120renown or more), townsman (between 80-120 renown) or paeasant (up to 80 renown).
+Freelancing for a crusader headmaster will now allow you to become either a seargant(with less then 120renown) or a knight(120 and more renown). You will loose your items and fiefs! Be catious!
+Traveling traders added in taverns.
+Settlement changes - new ones added, many moved.
+Spearwall tweaked - a hit from braced spear will no longer result in instant kill.
+A number of selected scenes have been imported from native to increas scene variety.
+New custom-made scenes and various tweaks to the current ones.
+Troop list optimizations. A lot of unecesery troops removed to save memory.
+New menu darwings by F.F.C._fritz
+
+rev101
+Improved skirmishing script.
+Recruit Lances cost slightly less at times of peace.
+Troop upkeep at times of peace slightly decreased.
+Starting character equipment has been tweaked(including having more gold).
+
+rev100
+Factions for balt warbands set up properly.
+New feature - disband your troops recruited via lances(You can use it via the camp menu). This will allow the troops to return to home and be recruited again later on.
+Mongolian camp bug fixes and tweaks.
+A bug, that caused to loose previous party experiance after a battle is now fixed.
+New skirmishing script for horse archers.
+Various other bug fixes.
+
+rev99
+Warning message reguarding lance manpower update fixed.
+Mongolian camps should now attack the player properly.
+Kernave siege scene fix
+
+rev98
+Formations updated to the latest development version.
+Mongol camp optimization and bug fixes.
+New roaming war parties at the holy land - Crusaders and Jihadists.
+
+rev97
+Formation fix.
+Disabled the two directional spear attacks.
+rev96
+Sahran new spear attacks included. Now you can poke with them as an up and down attacks.
+Companion equipment script tweaked. They should no longer change there equipment.
+Companions on a mission should no longer appear as recruitable in the commoner companion hiring screen.
+rev95
+Assigned proper stats and skills for the commoner companions. Added the scripts to equip the companions(they might appear naked after recruitment in the party window. It's a funny bug).
+Russian translation updated.
+rev94
+New Companion recruitment system improved. Now you can recruit commoner npcs at towns(note that you can only have one specialist of the kind in the party)
+Fixed Bug with deathcam if auxiliary player is not enabled.
+Over too long long truce periods fixed(possibly).
+Various scene tweaks/fixes. Including after the player build a castle, the spawned village scene and the bug with the byzantium village/castle scene having too big buildings.
+Fixed noble companions getting invalid items.
+New castles and villages added. A new lord as well.
+A possible fix for noble companions not being noble. Need verification.
+Tweaked NPC mercenary recruitment. AI now have limited number of mercenaries availalbe to them.
+Players relationship with the town/castle/village now effects the possible total number of lances(cap).

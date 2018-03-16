@@ -1,0 +1,5 @@
+Whorehouse(small village) - spawns whorse in taverns.
+Monastery - spawns a priest and a bookseller in the Monastery.
+Horse breeder - More horses for the peasents
+Blacksmith - Better Weapons and Armors
+Mercenery camp - recruit merceneries

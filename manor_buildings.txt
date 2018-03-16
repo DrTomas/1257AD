@@ -1,0 +1,36 @@
+Generic: 
+house0: village_house_g-j i village_house_b-d
+houses1: earth_house_a
+houses2: village_house_g-j
+Temple: church_a; church_tower_a
+marketplace: wooden_stand, cart
+tavern: timber_frame_house_b, tavern_barrel, tavern_sign
+whorehouse: timber_frame_house_c, tavern_chairs_a-b
+blacksmith: town_house_aa, stand_thatched, smithy_anvil, smithy_forge.
+weaponsmith: town_house_c, smithy_grindstone_wheel
+armor_smith: town_house_d, smithy_forge_bellows
+fletcher: town_house_h, arenat_archer_target_a
+potter: town_house_e, table_small, Village_oven, cup, jug
+baker: town_house_f, fireplace_a, table_small_b, bread_a
+butcher: town_house_g, itm_dried_meat
+brewery: brewery_big_bucket,  brewery_pool, town_house_o
+winery: town_house_za, winery_middle_barrel, winery_wine_press, winery_wine_cart_loaded, itm_wine
+prison: torture_Tools_a-c, castle_courtyard_house_a
+architect: small_timber_frame_house_a
+stables: village_shed_b, open_stable_a-b, feeding_thourgh_a
+nobles: castle_courtyard_house_b, castle_courtyard_house_c
+linen_workshop: town_house_y, itm_linen
+wool_workshop: town_house_z, itm_wool_cloth
+tanery: town_house_i, itm_hide, tanerry_hide_a-b
+olive press: town_house_a, itm_oil
+walls: castle_f_battlement_a, castle_gate_house_a
+guard_tower: town_house_r
+mill: windmill, windmill_fan, windmill_fan_turning
+grainfarm: farm_house_a, angry_wheat, cabbage_b, itm_honey, itm_buter, itm_grain
+fruitfarm: farm_house_b, itm_fruit
+livestock+sheep farm: farm_house_c
+fisher: earth_house_b, net_a, net_b, itm_smoked_fish
+iron gathere:
+woodcuter: viking_house_e, wood_heap_b
+Well: well
+wherhouse: castle_h_house_b, castle_h_house_c
